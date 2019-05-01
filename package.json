@@ -1,0 +1,16 @@
+{
+  "name": "subsys",
+  "version": "1.0.0",
+  "description": "Registration Handler for UX Strategy Newsletter Subscribers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "mailchimp-api-v3": "^1.13.0"
+  }
+}
